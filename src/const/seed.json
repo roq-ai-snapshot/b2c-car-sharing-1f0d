@@ -1,0 +1,1842 @@
+[
+  {
+    "user_location": [
+      {
+        "id": "3793cae6-af38-4cbd-9bb0-b6d28a399f77",
+        "created_at": "2023-09-27T08:00:54.099Z",
+        "updated_at": "2023-09-26T12:50:08.668Z"
+      },
+      {
+        "id": "60244205-dcae-4396-b1b2-b9673f5986c0",
+        "created_at": "2023-09-26T19:16:03.584Z",
+        "updated_at": "2023-09-26T18:14:14.963Z"
+      },
+      {
+        "id": "8b140695-901f-4ac6-abfe-89c1ff5e39df",
+        "created_at": "2023-09-27T06:56:28.108Z",
+        "updated_at": "2023-09-27T00:20:50.852Z"
+      },
+      {
+        "id": "a5c26735-7d55-4ccf-b70b-368502756481",
+        "created_at": "2023-09-27T05:31:54.347Z",
+        "updated_at": "2023-09-26T13:52:02.969Z"
+      },
+      {
+        "id": "b131b44b-1913-407f-8f2a-20c506a4e60a",
+        "created_at": "2023-09-27T02:00:15.182Z",
+        "updated_at": "2023-09-27T09:04:13.606Z"
+      }
+    ],
+    "operation_staff": [
+      {
+        "id": "6289a934-2afc-42e6-9764-228d19821b05",
+        "created_at": "2023-09-26T13:17:36.749Z",
+        "updated_at": "2023-09-27T08:15:28.923Z"
+      },
+      {
+        "id": "25656aff-a1fe-4745-ad9e-8528aa4fa9bf",
+        "created_at": "2023-09-26T13:46:06.064Z",
+        "updated_at": "2023-09-27T01:33:47.457Z"
+      },
+      {
+        "id": "0522b9d8-df76-4e80-b5e2-9878c4add6a5",
+        "created_at": "2023-09-27T07:40:38.964Z",
+        "updated_at": "2023-09-26T11:20:19.579Z"
+      },
+      {
+        "id": "3953eb1f-b3cb-4e09-a2ca-c15fca0b6572",
+        "created_at": "2023-09-26T13:25:07.685Z",
+        "updated_at": "2023-09-26T14:58:13.318Z"
+      },
+      {
+        "id": "e889ec83-3ad0-4e4e-880c-32e5858bedb9",
+        "created_at": "2023-09-27T06:13:03.624Z",
+        "updated_at": "2023-09-26T14:56:32.343Z"
+      }
+    ],
+    "car_status": [
+      {
+        "id": "15377045-bf6f-486c-b7cf-866304b5694b",
+        "created_at": "2023-09-27T04:20:10.705Z",
+        "updated_at": "2023-09-26T22:36:04.860Z"
+      },
+      {
+        "id": "a79cdbfd-20b3-4082-9624-08d445eb6384",
+        "created_at": "2023-09-27T03:06:03.455Z",
+        "updated_at": "2023-09-26T21:53:19.411Z"
+      },
+      {
+        "id": "618ae630-f4d5-4871-8826-c89d5ef4fd84",
+        "created_at": "2023-09-27T02:26:58.051Z",
+        "updated_at": "2023-09-27T08:21:35.483Z"
+      },
+      {
+        "id": "bbd00429-c0eb-4f8d-9521-7648827ff91e",
+        "created_at": "2023-09-26T17:13:12.827Z",
+        "updated_at": "2023-09-26T17:35:40.694Z"
+      },
+      {
+        "id": "a11b3db2-4469-4484-bb84-caa4c3f91f52",
+        "created_at": "2023-09-26T12:37:22.182Z",
+        "updated_at": "2023-09-27T07:58:34.894Z"
+      }
+    ],
+    "car_inventory": [
+      {
+        "id": "25f78cf2-a5d3-48d2-aca7-747764ce5bce",
+        "created_at": "2023-09-27T10:43:25.685Z",
+        "updated_at": "2023-09-27T03:18:16.641Z"
+      },
+      {
+        "id": "e17b53aa-c66d-45c0-b5b4-aca938a96538",
+        "created_at": "2023-09-27T05:32:49.813Z",
+        "updated_at": "2023-09-26T12:41:21.481Z"
+      },
+      {
+        "id": "de4914ee-8a57-458d-9ade-ca0274362160",
+        "created_at": "2023-09-26T22:42:00.095Z",
+        "updated_at": "2023-09-27T09:41:04.798Z"
+      },
+      {
+        "id": "c5213ea7-18b4-4ac0-b64c-bde67e1ad8bc",
+        "created_at": "2023-09-26T15:21:50.959Z",
+        "updated_at": "2023-09-27T10:01:22.566Z"
+      },
+      {
+        "id": "63ea0c9f-0a0c-4296-8a2f-2145c5ef2432",
+        "created_at": "2023-09-27T02:58:00.744Z",
+        "updated_at": "2023-09-27T00:23:30.080Z"
+      }
+    ],
+    "booking_history": [
+      {
+        "id": "1c5823cd-64d8-4a85-83ed-5162dbcfeed5",
+        "created_at": "2023-09-26T23:07:39.790Z",
+        "updated_at": "2023-09-26T17:19:45.830Z"
+      },
+      {
+        "id": "1a932c87-980b-40cc-a946-88e54a3d04ad",
+        "created_at": "2023-09-27T07:08:12.094Z",
+        "updated_at": "2023-09-26T15:18:37.055Z"
+      },
+      {
+        "id": "8d5251ee-2331-437c-b8ed-18f93a164af5",
+        "created_at": "2023-09-27T09:02:25.769Z",
+        "updated_at": "2023-09-26T12:15:40.504Z"
+      },
+      {
+        "id": "ecc36199-a0fd-4f38-aecf-1f31bf6fcd99",
+        "created_at": "2023-09-26T12:45:39.808Z",
+        "updated_at": "2023-09-26T14:15:17.071Z"
+      },
+      {
+        "id": "b7301323-485f-492f-a7cd-e9301fc5634c",
+        "created_at": "2023-09-26T13:34:34.164Z",
+        "updated_at": "2023-09-26T15:53:00.296Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8aea2c9a-859b-46d7-b2cd-1ba8cc58f5b0",
+        "email": "Mabelle_Romaguera@roq.tech",
+        "firstName": "Jailyn",
+        "lastName": "Glover",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3721456",
+        "tenantId": null
+      },
+      {
+        "reference": "5894c506-660e-4476-8056-b1e87e978ca5",
+        "email": "Doyle_Rice0@roq.tech",
+        "firstName": "Jude",
+        "lastName": "Wisozk",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20582130",
+        "tenantId": null
+      },
+      {
+        "reference": "2946eb1a-4de1-410c-8fd6-79d0d66fae2b",
+        "email": "Ernestine_Brakus@roq.tech",
+        "firstName": "Baby",
+        "lastName": "Miller",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13745464",
+        "tenantId": null
+      },
+      {
+        "reference": "7a35f2d2-80c2-489c-9412-d5632b39fa34",
+        "email": "Einar78@roq.tech",
+        "firstName": "Nannie",
+        "lastName": "Dickens",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/736.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a0dfa0d3-81a4-4003-96e0-27e2f3e8fa68",
+        "email": "Osbaldo39@roq.tech",
+        "firstName": "Delbert",
+        "lastName": "Stark",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42829480",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_location": [
+      {
+        "id": "90603ed1-552f-4edf-8a56-c199a3f30f97",
+        "created_at": "2023-09-27T04:36:10.834Z",
+        "updated_at": "2023-09-26T16:28:52.188Z"
+      },
+      {
+        "id": "35bfe8ee-cca4-4de1-9385-a1b0d066be08",
+        "created_at": "2023-09-26T15:49:07.364Z",
+        "updated_at": "2023-09-27T08:23:30.176Z"
+      },
+      {
+        "id": "6a5a2dd8-de65-48cc-946d-3b01c3feebad",
+        "created_at": "2023-09-26T14:00:41.184Z",
+        "updated_at": "2023-09-27T03:48:44.205Z"
+      },
+      {
+        "id": "ed9c7539-8e0f-4a09-8dc8-60b48c628602",
+        "created_at": "2023-09-26T23:28:31.705Z",
+        "updated_at": "2023-09-26T14:27:29.150Z"
+      },
+      {
+        "id": "dc075144-61c1-4b93-8186-d1470f801b85",
+        "created_at": "2023-09-26T19:26:58.107Z",
+        "updated_at": "2023-09-27T04:15:37.741Z"
+      }
+    ],
+    "operation_staff": [
+      {
+        "id": "4a8a67b6-8460-4eef-af17-7289a28bf95a",
+        "created_at": "2023-09-27T01:22:01.386Z",
+        "updated_at": "2023-09-27T10:32:05.752Z"
+      },
+      {
+        "id": "99cc303c-d903-40b4-b84c-149f1e79773f",
+        "created_at": "2023-09-27T08:18:01.313Z",
+        "updated_at": "2023-09-26T17:12:07.145Z"
+      },
+      {
+        "id": "42fd24bf-1cba-4d30-8288-e1dc20b2dab5",
+        "created_at": "2023-09-26T11:19:22.693Z",
+        "updated_at": "2023-09-26T14:57:55.651Z"
+      },
+      {
+        "id": "7635c22e-121e-4f09-b713-b93d02d7a5c0",
+        "created_at": "2023-09-26T18:33:10.290Z",
+        "updated_at": "2023-09-27T06:19:02.002Z"
+      },
+      {
+        "id": "c6ebbd2e-fce0-4bc9-9a49-a292b763be2d",
+        "created_at": "2023-09-26T22:09:53.163Z",
+        "updated_at": "2023-09-27T07:23:19.668Z"
+      }
+    ],
+    "car_status": [
+      {
+        "id": "bda80aad-6527-45c2-bf70-3a87b3a268d9",
+        "created_at": "2023-09-26T12:58:27.597Z",
+        "updated_at": "2023-09-26T16:01:58.976Z"
+      },
+      {
+        "id": "80959277-af2e-4022-9ff5-15ce9c1024e5",
+        "created_at": "2023-09-26T15:46:35.257Z",
+        "updated_at": "2023-09-26T22:25:53.808Z"
+      },
+      {
+        "id": "e37eb053-74d5-4504-bddb-1f3fa55db215",
+        "created_at": "2023-09-26T14:38:09.249Z",
+        "updated_at": "2023-09-27T10:42:27.023Z"
+      },
+      {
+        "id": "862576b7-4c3a-4de2-81cb-66245370c086",
+        "created_at": "2023-09-26T20:46:41.095Z",
+        "updated_at": "2023-09-27T10:33:34.330Z"
+      },
+      {
+        "id": "f3cd78b7-77b8-49ca-8196-2651b071338e",
+        "created_at": "2023-09-26T23:56:54.077Z",
+        "updated_at": "2023-09-26T23:10:54.056Z"
+      }
+    ],
+    "car_inventory": [
+      {
+        "id": "7923cf06-6819-45b3-84ce-ce982c74b64a",
+        "created_at": "2023-09-27T10:38:09.265Z",
+        "updated_at": "2023-09-27T06:39:56.269Z"
+      },
+      {
+        "id": "29064025-945c-42c8-8211-c6aa0593bb89",
+        "created_at": "2023-09-26T12:05:31.326Z",
+        "updated_at": "2023-09-27T10:23:51.457Z"
+      },
+      {
+        "id": "98cffcb1-2649-4617-b230-b825e5e809b2",
+        "created_at": "2023-09-26T17:11:28.395Z",
+        "updated_at": "2023-09-27T10:29:07.254Z"
+      },
+      {
+        "id": "9aca1daf-028a-46e7-b604-6056e24a6be7",
+        "created_at": "2023-09-26T13:06:26.475Z",
+        "updated_at": "2023-09-26T13:48:15.477Z"
+      },
+      {
+        "id": "a7985b9c-f545-4121-8ad8-53efdd651e65",
+        "created_at": "2023-09-26T22:19:33.217Z",
+        "updated_at": "2023-09-26T20:44:49.937Z"
+      }
+    ],
+    "booking_history": [
+      {
+        "id": "bb39764c-4806-499b-8ea3-bde4f76aa350",
+        "created_at": "2023-09-27T00:37:10.987Z",
+        "updated_at": "2023-09-26T20:33:08.055Z"
+      },
+      {
+        "id": "1489d591-57c1-419a-8ec0-fd671cd74672",
+        "created_at": "2023-09-27T08:31:49.072Z",
+        "updated_at": "2023-09-26T20:14:42.835Z"
+      },
+      {
+        "id": "669428cb-19bc-49c8-b510-e9c377192340",
+        "created_at": "2023-09-26T22:11:23.303Z",
+        "updated_at": "2023-09-27T01:23:47.186Z"
+      },
+      {
+        "id": "585bd189-3a8d-4013-b2ec-2525bd275fe4",
+        "created_at": "2023-09-26T13:43:39.984Z",
+        "updated_at": "2023-09-27T00:21:28.318Z"
+      },
+      {
+        "id": "974b51ab-f177-4ac9-bacc-36c9ea8b88d2",
+        "created_at": "2023-09-26T11:03:24.910Z",
+        "updated_at": "2023-09-26T20:51:16.251Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d9f7f830-c0bc-439d-831f-4b08deedba2c",
+        "email": "Samara_Hamill2@roq.tech",
+        "firstName": "Leola",
+        "lastName": "Ondricka",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/457.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0fea5d76-f38a-45a2-a778-8b88e65da35d",
+        "email": "Cortney74@roq.tech",
+        "firstName": "Adella",
+        "lastName": "Bartoletti",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/94021661",
+        "tenantId": null
+      },
+      {
+        "reference": "60a31355-962e-45de-8277-9df07f26f2e5",
+        "email": "Keshaun13@roq.tech",
+        "firstName": "Silas",
+        "lastName": "Bins",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31043701",
+        "tenantId": null
+      },
+      {
+        "reference": "788b3ae0-0a87-47af-ae17-6388882914bc",
+        "email": "Lamar.Abernathy81@roq.tech",
+        "firstName": "Jennings",
+        "lastName": "Kilback",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/746.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "117a05f0-8d57-4643-802a-398e1b608bad",
+        "email": "Sandra71@roq.tech",
+        "firstName": "Diamond",
+        "lastName": "Padberg",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/441.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_location": [
+      {
+        "id": "2202cde2-0849-441c-8b31-c6368e5dc3cc",
+        "created_at": "2023-09-27T07:04:39.989Z",
+        "updated_at": "2023-09-27T07:12:06.680Z"
+      },
+      {
+        "id": "0d51cb5d-7fc6-46df-8bd7-c6ed3530f6a9",
+        "created_at": "2023-09-26T22:39:17.647Z",
+        "updated_at": "2023-09-26T17:19:19.972Z"
+      },
+      {
+        "id": "e79f792e-848e-44e1-b09a-4a23a4b4af41",
+        "created_at": "2023-09-26T11:07:33.598Z",
+        "updated_at": "2023-09-26T22:49:34.711Z"
+      },
+      {
+        "id": "7db98c4b-9c8a-48ed-9bf1-09e0990af39e",
+        "created_at": "2023-09-27T01:13:48.691Z",
+        "updated_at": "2023-09-27T08:03:52.432Z"
+      },
+      {
+        "id": "95f88578-5b26-482e-bb81-6695217cff89",
+        "created_at": "2023-09-26T18:34:08.869Z",
+        "updated_at": "2023-09-26T13:17:24.056Z"
+      }
+    ],
+    "operation_staff": [
+      {
+        "id": "edeecb01-7594-4431-984a-dd88d766358b",
+        "created_at": "2023-09-26T21:05:04.315Z",
+        "updated_at": "2023-09-27T10:33:03.799Z"
+      },
+      {
+        "id": "6b51b864-5193-40d0-b46b-f49181ea565f",
+        "created_at": "2023-09-27T01:24:32.927Z",
+        "updated_at": "2023-09-27T01:39:44.895Z"
+      },
+      {
+        "id": "766d935c-827b-4fbf-9e89-87deaf493ff5",
+        "created_at": "2023-09-26T13:01:14.157Z",
+        "updated_at": "2023-09-27T04:06:36.052Z"
+      },
+      {
+        "id": "6a4a5aa9-d028-4b59-9580-51bbcbcef618",
+        "created_at": "2023-09-26T17:50:21.371Z",
+        "updated_at": "2023-09-27T03:47:05.317Z"
+      },
+      {
+        "id": "26f2c4a7-6a8b-4ee6-82ab-4394b780fd32",
+        "created_at": "2023-09-27T05:29:58.421Z",
+        "updated_at": "2023-09-27T00:27:13.567Z"
+      }
+    ],
+    "car_status": [
+      {
+        "id": "5997cc2d-c281-44d0-9969-5ba34319725b",
+        "created_at": "2023-09-27T10:58:41.437Z",
+        "updated_at": "2023-09-26T18:49:21.691Z"
+      },
+      {
+        "id": "76ac5274-bddf-47fd-9cff-960f304b3bfd",
+        "created_at": "2023-09-27T07:19:20.711Z",
+        "updated_at": "2023-09-26T17:47:08.529Z"
+      },
+      {
+        "id": "8a23352a-d0d3-43cc-afa1-fa943365c2fd",
+        "created_at": "2023-09-26T17:47:21.810Z",
+        "updated_at": "2023-09-26T18:37:55.323Z"
+      },
+      {
+        "id": "fd2e2993-ee49-4f74-984e-60ad2c5d4375",
+        "created_at": "2023-09-27T01:36:09.991Z",
+        "updated_at": "2023-09-27T04:40:35.020Z"
+      },
+      {
+        "id": "b38cd83b-59b9-4d11-8aad-936e3fc3563e",
+        "created_at": "2023-09-27T08:24:46.148Z",
+        "updated_at": "2023-09-27T02:11:04.455Z"
+      }
+    ],
+    "car_inventory": [
+      {
+        "id": "7878ffc2-c4e9-4b49-bc1b-59b0a801a618",
+        "created_at": "2023-09-27T03:44:03.186Z",
+        "updated_at": "2023-09-26T20:49:30.969Z"
+      },
+      {
+        "id": "0a48bf13-5e49-4325-a363-791853aaeafe",
+        "created_at": "2023-09-26T21:01:58.192Z",
+        "updated_at": "2023-09-27T05:07:56.441Z"
+      },
+      {
+        "id": "665e5725-51f5-447e-b734-8f2abd64b139",
+        "created_at": "2023-09-26T12:52:26.027Z",
+        "updated_at": "2023-09-27T10:35:12.964Z"
+      },
+      {
+        "id": "e683491e-fbc6-4cd1-8ab5-8215c8b28731",
+        "created_at": "2023-09-26T14:26:08.184Z",
+        "updated_at": "2023-09-26T22:57:12.833Z"
+      },
+      {
+        "id": "ec780533-ec24-45f2-96d0-8ed8587df7cf",
+        "created_at": "2023-09-26T17:49:59.241Z",
+        "updated_at": "2023-09-26T12:34:25.145Z"
+      }
+    ],
+    "booking_history": [
+      {
+        "id": "a5ef20d6-643c-4669-8ea5-d918fad85f4b",
+        "created_at": "2023-09-26T19:46:54.936Z",
+        "updated_at": "2023-09-26T23:56:19.106Z"
+      },
+      {
+        "id": "16e0a1f4-8fd7-476a-bc6f-206ae30b8929",
+        "created_at": "2023-09-27T06:30:54.839Z",
+        "updated_at": "2023-09-27T01:46:56.628Z"
+      },
+      {
+        "id": "b2fddfee-a093-4060-833d-cf03e4d2d0b8",
+        "created_at": "2023-09-27T07:22:33.807Z",
+        "updated_at": "2023-09-26T16:50:03.655Z"
+      },
+      {
+        "id": "29b0bc4a-4462-460b-b245-faaee5b6d01a",
+        "created_at": "2023-09-26T19:11:57.201Z",
+        "updated_at": "2023-09-27T06:16:08.513Z"
+      },
+      {
+        "id": "27150f20-0076-4e6f-95ed-c0c53da055d7",
+        "created_at": "2023-09-26T23:32:59.623Z",
+        "updated_at": "2023-09-26T16:47:13.520Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9bfd4966-e7d1-4d8e-8bbd-6078eb598614",
+        "email": "Jon_Rosenbaum@roq.tech",
+        "firstName": "Augustine",
+        "lastName": "D'Amore",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/136.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4d2a4540-5022-4c32-b87e-3e737da8778a",
+        "email": "Lorenzo_Nicolas52@roq.tech",
+        "firstName": "Easter",
+        "lastName": "Stanton",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83232096",
+        "tenantId": null
+      },
+      {
+        "reference": "22947bfd-9ecf-48f3-bdde-a4793f259256",
+        "email": "Lurline56@roq.tech",
+        "firstName": "Irwin",
+        "lastName": "Walker",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97330376",
+        "tenantId": null
+      },
+      {
+        "reference": "f6b3dd38-1270-4da2-87ee-470c4f994f50",
+        "email": "Bonnie_Wehner@roq.tech",
+        "firstName": "Elliott",
+        "lastName": "Hirthe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/439.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "811debcf-9fcd-482c-bd65-e60afb8798be",
+        "email": "Garrison_Bradtke@roq.tech",
+        "firstName": "Larissa",
+        "lastName": "Kihn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1192.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_location": [
+      {
+        "id": "25079e20-8767-4a38-b58f-65f3762629fa",
+        "created_at": "2023-09-27T00:52:46.935Z",
+        "updated_at": "2023-09-27T08:24:47.605Z"
+      },
+      {
+        "id": "51e74656-95b1-4561-bc81-0c96a55cd775",
+        "created_at": "2023-09-27T07:51:32.262Z",
+        "updated_at": "2023-09-27T06:13:34.218Z"
+      },
+      {
+        "id": "bd37b999-8611-4185-be43-113f7cd10528",
+        "created_at": "2023-09-26T22:22:54.704Z",
+        "updated_at": "2023-09-27T09:15:08.512Z"
+      },
+      {
+        "id": "f7302be7-36c2-4fe7-9f7a-5d237af2cc73",
+        "created_at": "2023-09-27T00:02:21.210Z",
+        "updated_at": "2023-09-27T08:34:15.822Z"
+      },
+      {
+        "id": "e69da057-6bb5-41f8-8b9f-e19f8c4113f3",
+        "created_at": "2023-09-27T01:08:31.587Z",
+        "updated_at": "2023-09-27T08:12:33.214Z"
+      }
+    ],
+    "operation_staff": [
+      {
+        "id": "b82c4273-8de7-4186-bb4a-772d37d58db5",
+        "created_at": "2023-09-27T02:14:17.575Z",
+        "updated_at": "2023-09-26T12:22:36.264Z"
+      },
+      {
+        "id": "7b3f1d8d-a5e2-45df-89cb-cae797a541c7",
+        "created_at": "2023-09-26T13:27:41.674Z",
+        "updated_at": "2023-09-26T16:10:04.051Z"
+      },
+      {
+        "id": "1fcba236-0137-4301-8aea-44b354259733",
+        "created_at": "2023-09-26T13:24:54.448Z",
+        "updated_at": "2023-09-27T10:00:56.544Z"
+      },
+      {
+        "id": "0fdf7aff-4220-4aae-8715-443301945571",
+        "created_at": "2023-09-26T16:53:17.624Z",
+        "updated_at": "2023-09-27T08:44:09.934Z"
+      },
+      {
+        "id": "82aa73c6-7eee-4547-a485-f65415cad7cb",
+        "created_at": "2023-09-26T15:23:50.909Z",
+        "updated_at": "2023-09-26T22:13:14.733Z"
+      }
+    ],
+    "car_status": [
+      {
+        "id": "08847a94-7c44-4d9d-81e6-ed34b9755ce0",
+        "created_at": "2023-09-26T13:32:34.742Z",
+        "updated_at": "2023-09-27T04:17:02.163Z"
+      },
+      {
+        "id": "ccf0f158-c89f-47f9-9bfa-57afb53b7460",
+        "created_at": "2023-09-27T02:50:42.841Z",
+        "updated_at": "2023-09-26T17:18:02.382Z"
+      },
+      {
+        "id": "1fcd4d7d-3014-4852-90d6-0e1c2fc68676",
+        "created_at": "2023-09-27T03:36:19.119Z",
+        "updated_at": "2023-09-26T15:45:12.646Z"
+      },
+      {
+        "id": "0c2ab6cf-80a7-472d-872d-46a1b6bd070f",
+        "created_at": "2023-09-26T21:27:03.226Z",
+        "updated_at": "2023-09-26T13:30:57.581Z"
+      },
+      {
+        "id": "2fffecdd-ab62-4919-abb1-52d752504bd2",
+        "created_at": "2023-09-26T13:59:10.752Z",
+        "updated_at": "2023-09-27T06:40:15.967Z"
+      }
+    ],
+    "car_inventory": [
+      {
+        "id": "31dbfe2d-b564-4190-a3db-3b54a91b453e",
+        "created_at": "2023-09-26T21:54:27.780Z",
+        "updated_at": "2023-09-26T12:00:43.746Z"
+      },
+      {
+        "id": "652ff37e-d141-43b0-b393-abdc25cbf955",
+        "created_at": "2023-09-27T04:13:13.341Z",
+        "updated_at": "2023-09-26T11:41:45.730Z"
+      },
+      {
+        "id": "0e2a65d9-0c5f-490f-b082-11e21620b553",
+        "created_at": "2023-09-27T06:43:21.471Z",
+        "updated_at": "2023-09-27T09:34:17.233Z"
+      },
+      {
+        "id": "ac2253c8-4b52-4e9e-a47a-09b1bfb06401",
+        "created_at": "2023-09-26T19:55:37.105Z",
+        "updated_at": "2023-09-26T13:21:58.554Z"
+      },
+      {
+        "id": "cca87790-0dae-4697-8c86-a21f38063d0a",
+        "created_at": "2023-09-26T21:22:28.251Z",
+        "updated_at": "2023-09-27T02:25:48.233Z"
+      }
+    ],
+    "booking_history": [
+      {
+        "id": "288a7020-77e1-4fb5-b6e7-a77f9839d310",
+        "created_at": "2023-09-27T03:02:26.724Z",
+        "updated_at": "2023-09-27T07:23:10.314Z"
+      },
+      {
+        "id": "acf69823-1681-4388-9f3e-f2618ebae672",
+        "created_at": "2023-09-27T05:11:16.910Z",
+        "updated_at": "2023-09-27T00:58:54.779Z"
+      },
+      {
+        "id": "1c8efff2-feed-4c67-83e0-3a88809fee27",
+        "created_at": "2023-09-27T02:18:14.751Z",
+        "updated_at": "2023-09-26T19:04:08.099Z"
+      },
+      {
+        "id": "f65b20f4-f814-4e59-a2e5-ecdd84db29e1",
+        "created_at": "2023-09-26T13:07:15.887Z",
+        "updated_at": "2023-09-26T11:26:19.343Z"
+      },
+      {
+        "id": "0010a8cb-ee40-4e0b-a114-30f47c9fb884",
+        "created_at": "2023-09-27T01:32:18.212Z",
+        "updated_at": "2023-09-27T02:11:33.729Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "282fa807-d18e-443d-9204-d24465ecb055",
+        "email": "Stephanie51@roq.tech",
+        "firstName": "Sammy",
+        "lastName": "Koelpin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6758290",
+        "tenantId": null
+      },
+      {
+        "reference": "598c30ab-0a8e-43d7-8bf4-bc229d3b0702",
+        "email": "Ibrahim_Thiel30@roq.tech",
+        "firstName": "Luciano",
+        "lastName": "Donnelly",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/223.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8acbb784-1593-456f-b3e8-406a7d618ad9",
+        "email": "Domenick_Hills@roq.tech",
+        "firstName": "Noemi",
+        "lastName": "Pouros",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19647137",
+        "tenantId": null
+      },
+      {
+        "reference": "8b9b8e63-6613-4a3b-9481-173442ca0b33",
+        "email": "Nelle_Price71@roq.tech",
+        "firstName": "Curtis",
+        "lastName": "D'Amore",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/841.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d9e2d95b-5497-4548-9a10-0eed14c44ffd",
+        "email": "Murl_Rowe67@roq.tech",
+        "firstName": "Daija",
+        "lastName": "Crist",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63951360",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_location": [
+      {
+        "id": "55515666-9457-4d7d-baf6-8ea19806b889",
+        "created_at": "2023-09-26T15:45:51.214Z",
+        "updated_at": "2023-09-27T09:07:25.638Z"
+      },
+      {
+        "id": "8154987e-efb1-4980-85b3-3d49139951fd",
+        "created_at": "2023-09-27T01:12:17.265Z",
+        "updated_at": "2023-09-27T03:13:28.976Z"
+      },
+      {
+        "id": "878a7cca-c365-4d50-8e4c-960924ab8360",
+        "created_at": "2023-09-26T20:12:18.398Z",
+        "updated_at": "2023-09-26T22:27:22.143Z"
+      },
+      {
+        "id": "0757fee8-97e2-4efc-a36b-bd198766ce06",
+        "created_at": "2023-09-26T20:37:10.671Z",
+        "updated_at": "2023-09-27T03:45:22.472Z"
+      },
+      {
+        "id": "783b98c9-73b7-4704-b940-368aff01a83f",
+        "created_at": "2023-09-26T15:51:15.956Z",
+        "updated_at": "2023-09-27T08:11:28.599Z"
+      }
+    ],
+    "operation_staff": [
+      {
+        "id": "eb7924fe-65c4-44c8-b724-de56f77cea3a",
+        "created_at": "2023-09-27T04:52:21.660Z",
+        "updated_at": "2023-09-26T20:38:31.074Z"
+      },
+      {
+        "id": "07667d5d-93f2-47e5-b01a-0725d1adf72b",
+        "created_at": "2023-09-26T18:37:00.341Z",
+        "updated_at": "2023-09-26T12:14:43.416Z"
+      },
+      {
+        "id": "b2685508-37bb-4414-9fc3-04d3b531dfe7",
+        "created_at": "2023-09-27T03:17:13.334Z",
+        "updated_at": "2023-09-26T18:41:46.869Z"
+      },
+      {
+        "id": "80dbf293-167d-4af0-9792-8a19924d2899",
+        "created_at": "2023-09-26T22:01:49.803Z",
+        "updated_at": "2023-09-27T06:24:22.074Z"
+      },
+      {
+        "id": "17f0c41b-0a0e-4e10-8484-4997f1811b75",
+        "created_at": "2023-09-26T16:24:55.625Z",
+        "updated_at": "2023-09-27T10:12:50.106Z"
+      }
+    ],
+    "car_status": [
+      {
+        "id": "7cd9d908-61c5-47c1-8f3c-b24d042d9e01",
+        "created_at": "2023-09-27T05:16:43.783Z",
+        "updated_at": "2023-09-27T00:11:04.728Z"
+      },
+      {
+        "id": "4031d245-ea5a-42fb-8e61-05465c4001ad",
+        "created_at": "2023-09-26T20:06:59.908Z",
+        "updated_at": "2023-09-26T19:55:18.381Z"
+      },
+      {
+        "id": "0479fdd9-944d-4894-8f44-6a4600f79b63",
+        "created_at": "2023-09-27T00:00:51.646Z",
+        "updated_at": "2023-09-26T19:06:23.274Z"
+      },
+      {
+        "id": "76187f29-7fc8-4c35-8de1-1d3a09508729",
+        "created_at": "2023-09-27T04:45:04.798Z",
+        "updated_at": "2023-09-27T02:32:46.741Z"
+      },
+      {
+        "id": "6e420fda-c80c-466c-8725-4c72e1973050",
+        "created_at": "2023-09-26T19:44:45.958Z",
+        "updated_at": "2023-09-26T15:46:30.858Z"
+      }
+    ],
+    "car_inventory": [
+      {
+        "id": "b57e76f3-4345-41e8-b497-c67baa60009f",
+        "created_at": "2023-09-26T20:57:22.853Z",
+        "updated_at": "2023-09-27T08:57:02.720Z"
+      },
+      {
+        "id": "d9c129e4-7b1c-4e8e-9aeb-bf385e5bf344",
+        "created_at": "2023-09-27T03:36:32.720Z",
+        "updated_at": "2023-09-27T02:39:05.996Z"
+      },
+      {
+        "id": "e3482b8e-16a7-462b-bc50-1b9b3e8f9cc6",
+        "created_at": "2023-09-27T04:35:07.960Z",
+        "updated_at": "2023-09-26T19:11:38.959Z"
+      },
+      {
+        "id": "484c4f14-6de2-4f3a-a227-e4dcc0c29b25",
+        "created_at": "2023-09-26T15:52:49.592Z",
+        "updated_at": "2023-09-27T10:11:22.585Z"
+      },
+      {
+        "id": "f087dbd4-85c7-49cb-92ee-ac20c2c58505",
+        "created_at": "2023-09-26T20:28:45.798Z",
+        "updated_at": "2023-09-26T22:14:37.226Z"
+      }
+    ],
+    "booking_history": [
+      {
+        "id": "d2ceb365-b24f-4a7c-b8bc-6c7951bf639b",
+        "created_at": "2023-09-26T12:13:10.816Z",
+        "updated_at": "2023-09-26T14:54:09.339Z"
+      },
+      {
+        "id": "1e3df216-7d6f-4133-b77d-ea40ca69a458",
+        "created_at": "2023-09-26T14:33:48.955Z",
+        "updated_at": "2023-09-27T07:52:36.740Z"
+      },
+      {
+        "id": "d33f6362-76da-4284-a083-d1c7bf3676f4",
+        "created_at": "2023-09-26T12:15:30.979Z",
+        "updated_at": "2023-09-26T14:40:56.191Z"
+      },
+      {
+        "id": "662bdc59-b4bb-4c0c-8f6b-a6f1db25f808",
+        "created_at": "2023-09-27T05:13:05.988Z",
+        "updated_at": "2023-09-26T19:09:48.651Z"
+      },
+      {
+        "id": "1d29e022-d0f3-4449-b862-4c43cb5e8b09",
+        "created_at": "2023-09-26T22:58:00.408Z",
+        "updated_at": "2023-09-27T08:09:19.274Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7b240535-cc58-45e1-bc6e-1143f2025ad3",
+        "email": "Lucienne_Fritsch@roq.tech",
+        "firstName": "Jack",
+        "lastName": "Harber",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1384241",
+        "tenantId": null
+      },
+      {
+        "reference": "7a8d78dc-c493-4ba9-b53d-2633bd5aeb57",
+        "email": "Daphne_Wunsch@roq.tech",
+        "firstName": "Sterling",
+        "lastName": "Senger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1214.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2620a10f-d9f3-4b0c-a182-401f70aa60c7",
+        "email": "Rolando.Witting94@roq.tech",
+        "firstName": "Clement",
+        "lastName": "Ratke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1017.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "589273be-7389-4b17-8541-eac4a25e2a24",
+        "email": "Dedrick_Sanford@roq.tech",
+        "firstName": "Sabryna",
+        "lastName": "Purdy",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46720039",
+        "tenantId": null
+      },
+      {
+        "reference": "9330ac1e-fbef-4595-8557-b9272102df56",
+        "email": "Hassan.Kulas82@roq.tech",
+        "firstName": "Domenic",
+        "lastName": "Heathcote",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50998128",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_location": [
+      {
+        "id": "2a9fe690-761e-4162-b232-c831d9c7f519",
+        "created_at": "2023-09-26T17:16:37.600Z",
+        "updated_at": "2023-09-26T23:00:38.846Z"
+      },
+      {
+        "id": "0b39d976-94e5-4972-82d9-ccf4a6034cb4",
+        "created_at": "2023-09-27T08:30:17.169Z",
+        "updated_at": "2023-09-26T23:00:07.704Z"
+      },
+      {
+        "id": "fd2465b3-cf0c-4c65-a82c-143c852684f4",
+        "created_at": "2023-09-27T01:53:43.641Z",
+        "updated_at": "2023-09-26T22:15:57.039Z"
+      },
+      {
+        "id": "b428f102-227d-4408-9d51-eea1968248a0",
+        "created_at": "2023-09-26T13:40:38.538Z",
+        "updated_at": "2023-09-27T07:29:36.451Z"
+      },
+      {
+        "id": "2593b9b3-74e7-4193-b038-d21396bd8b65",
+        "created_at": "2023-09-27T04:32:03.667Z",
+        "updated_at": "2023-09-26T16:34:18.305Z"
+      }
+    ],
+    "operation_staff": [
+      {
+        "id": "0f1e97fc-0b9d-46c3-a12c-00f0358381a8",
+        "created_at": "2023-09-26T17:03:56.480Z",
+        "updated_at": "2023-09-26T17:34:34.504Z"
+      },
+      {
+        "id": "b393dcaf-2bbe-40aa-96ac-70863dd4e883",
+        "created_at": "2023-09-26T12:15:39.218Z",
+        "updated_at": "2023-09-27T05:26:40.485Z"
+      },
+      {
+        "id": "a4610803-57ec-42fb-bea8-6c0cefc4277b",
+        "created_at": "2023-09-27T02:22:12.478Z",
+        "updated_at": "2023-09-27T10:52:48.279Z"
+      },
+      {
+        "id": "299f9604-01d7-4c61-bbde-8a4a239efd98",
+        "created_at": "2023-09-27T06:30:56.504Z",
+        "updated_at": "2023-09-26T16:57:07.880Z"
+      },
+      {
+        "id": "6bca76c8-a548-4670-9eda-41f8a819195d",
+        "created_at": "2023-09-26T21:15:43.134Z",
+        "updated_at": "2023-09-26T20:17:14.719Z"
+      }
+    ],
+    "car_status": [
+      {
+        "id": "ba60cc65-2167-4b24-983f-497599bcdbf3",
+        "created_at": "2023-09-26T12:39:44.096Z",
+        "updated_at": "2023-09-27T02:07:45.743Z"
+      },
+      {
+        "id": "fb281d67-88dc-4242-9536-b276cc216c6b",
+        "created_at": "2023-09-26T13:07:20.051Z",
+        "updated_at": "2023-09-26T20:44:08.787Z"
+      },
+      {
+        "id": "88e4242c-8c62-4850-8500-61ebda4b511f",
+        "created_at": "2023-09-26T23:29:23.358Z",
+        "updated_at": "2023-09-27T05:50:44.709Z"
+      },
+      {
+        "id": "e1261ec1-6b49-4c52-ad66-49a7e7af9049",
+        "created_at": "2023-09-26T22:14:58.988Z",
+        "updated_at": "2023-09-27T07:46:43.880Z"
+      },
+      {
+        "id": "bb3856f9-f765-4201-9efe-891ecc59c15d",
+        "created_at": "2023-09-26T11:59:33.418Z",
+        "updated_at": "2023-09-26T20:58:37.204Z"
+      }
+    ],
+    "car_inventory": [
+      {
+        "id": "ecd8ba72-bf86-4b77-91b4-e2b408d29df6",
+        "created_at": "2023-09-27T09:20:52.212Z",
+        "updated_at": "2023-09-26T17:07:57.814Z"
+      },
+      {
+        "id": "306d6e3a-7293-4c1d-8def-0da417a05118",
+        "created_at": "2023-09-26T16:34:18.163Z",
+        "updated_at": "2023-09-26T21:43:55.017Z"
+      },
+      {
+        "id": "1a0ac7c1-7175-4842-9417-4efbe4405544",
+        "created_at": "2023-09-26T23:34:31.650Z",
+        "updated_at": "2023-09-26T11:24:56.348Z"
+      },
+      {
+        "id": "5f815820-26d7-4334-948b-bdc5ab009d76",
+        "created_at": "2023-09-26T14:05:18.054Z",
+        "updated_at": "2023-09-27T04:52:51.810Z"
+      },
+      {
+        "id": "4c945bc6-80ea-49cd-a874-c009473ddb55",
+        "created_at": "2023-09-27T08:41:16.590Z",
+        "updated_at": "2023-09-26T15:13:56.501Z"
+      }
+    ],
+    "booking_history": [
+      {
+        "id": "5aa77f36-0662-40ca-bd99-d94c7d7ee935",
+        "created_at": "2023-09-26T12:10:59.448Z",
+        "updated_at": "2023-09-26T19:06:41.331Z"
+      },
+      {
+        "id": "c1244091-ceaf-4623-9f08-b5de165293dd",
+        "created_at": "2023-09-27T02:07:32.755Z",
+        "updated_at": "2023-09-27T07:49:25.167Z"
+      },
+      {
+        "id": "51adedd6-1de7-426e-be2f-dcb62decb802",
+        "created_at": "2023-09-26T12:47:08.938Z",
+        "updated_at": "2023-09-26T15:54:00.762Z"
+      },
+      {
+        "id": "817aa86f-225b-4f64-a898-d5d69ab84eb9",
+        "created_at": "2023-09-27T08:37:25.664Z",
+        "updated_at": "2023-09-26T22:08:29.892Z"
+      },
+      {
+        "id": "159cd771-304a-4613-a00c-c08f13451980",
+        "created_at": "2023-09-27T05:35:19.147Z",
+        "updated_at": "2023-09-26T17:28:11.605Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "69bc2b2f-6849-4fe7-9cbe-078191e61652",
+        "email": "Damon86@roq.tech",
+        "firstName": "Lurline",
+        "lastName": "Hermiston",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/828.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6a101884-d5ba-486c-809d-51f236ff5612",
+        "email": "Tyrell.Kuhic24@roq.tech",
+        "firstName": "Thaddeus",
+        "lastName": "Dibbert",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84380703",
+        "tenantId": null
+      },
+      {
+        "reference": "2b2ac853-1382-46f4-8294-fd2653da54ca",
+        "email": "Winston5@roq.tech",
+        "firstName": "Cameron",
+        "lastName": "Swaniawski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/222.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "89d94cfd-b9c9-4407-9500-586ea355a1aa",
+        "email": "Hillard_Dibbert@roq.tech",
+        "firstName": "Laurence",
+        "lastName": "Wiza",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35471601",
+        "tenantId": null
+      },
+      {
+        "reference": "bfa8fd55-d32a-43bf-b2d9-114d5831b002",
+        "email": "Ashly_Cruickshank44@roq.tech",
+        "firstName": "Janice",
+        "lastName": "Bartoletti",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36961707",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_location": [
+      {
+        "id": "4597d111-efee-4b75-8407-fb0188b12b66",
+        "created_at": "2023-09-26T18:09:06.595Z",
+        "updated_at": "2023-09-27T01:01:37.371Z"
+      },
+      {
+        "id": "69d36c1e-bf77-49b1-892e-23d3c35690e7",
+        "created_at": "2023-09-27T01:10:53.352Z",
+        "updated_at": "2023-09-26T20:06:07.290Z"
+      },
+      {
+        "id": "0bb00070-7180-4a5f-9623-00b6da45082b",
+        "created_at": "2023-09-26T12:34:52.619Z",
+        "updated_at": "2023-09-27T03:24:38.468Z"
+      },
+      {
+        "id": "46c73c9f-e0be-42ee-9700-d6bf67c8a408",
+        "created_at": "2023-09-26T21:38:18.217Z",
+        "updated_at": "2023-09-26T23:03:00.724Z"
+      },
+      {
+        "id": "d19a10a6-2fba-48ec-a2d6-f2887a278c5b",
+        "created_at": "2023-09-27T09:02:41.194Z",
+        "updated_at": "2023-09-26T21:41:16.433Z"
+      }
+    ],
+    "operation_staff": [
+      {
+        "id": "3b5a4726-a8ab-40f3-845d-8736245a7e69",
+        "created_at": "2023-09-26T13:53:45.009Z",
+        "updated_at": "2023-09-27T03:28:15.626Z"
+      },
+      {
+        "id": "6eead008-bc8e-44e3-bc82-58bf0bccc497",
+        "created_at": "2023-09-26T15:31:47.765Z",
+        "updated_at": "2023-09-26T20:12:13.388Z"
+      },
+      {
+        "id": "0c197478-f1d1-4b0c-90a7-284b256a1833",
+        "created_at": "2023-09-27T08:57:55.074Z",
+        "updated_at": "2023-09-27T02:41:45.906Z"
+      },
+      {
+        "id": "69f10c64-7c9e-4121-aa69-5a6508fdb2a0",
+        "created_at": "2023-09-26T16:25:30.661Z",
+        "updated_at": "2023-09-26T19:49:17.917Z"
+      },
+      {
+        "id": "9b01177c-2536-4028-a5f3-cd9235c6661f",
+        "created_at": "2023-09-26T18:00:35.431Z",
+        "updated_at": "2023-09-27T03:03:20.967Z"
+      }
+    ],
+    "car_status": [
+      {
+        "id": "2f8b835e-a4a5-490e-b27a-d1f0639e2804",
+        "created_at": "2023-09-26T11:36:37.770Z",
+        "updated_at": "2023-09-26T17:18:34.337Z"
+      },
+      {
+        "id": "3e29b14e-84e6-476b-b0a2-b27cf29390fe",
+        "created_at": "2023-09-26T17:51:08.807Z",
+        "updated_at": "2023-09-27T10:33:51.988Z"
+      },
+      {
+        "id": "06c512e0-26d2-4483-9411-0ab6b05f6761",
+        "created_at": "2023-09-27T02:36:39.437Z",
+        "updated_at": "2023-09-27T00:47:37.656Z"
+      },
+      {
+        "id": "a38fad75-d9b5-4c67-9402-3920f6c45680",
+        "created_at": "2023-09-26T16:27:37.380Z",
+        "updated_at": "2023-09-27T10:22:15.862Z"
+      },
+      {
+        "id": "9d613711-fad1-45aa-aef3-09ea61d0b59f",
+        "created_at": "2023-09-26T11:51:49.638Z",
+        "updated_at": "2023-09-27T05:48:44.803Z"
+      }
+    ],
+    "car_inventory": [
+      {
+        "id": "b2d28803-73c1-4d56-a627-81de1ae645ea",
+        "created_at": "2023-09-27T01:51:32.909Z",
+        "updated_at": "2023-09-26T17:59:16.893Z"
+      },
+      {
+        "id": "9924679b-d8f1-47b5-9bc6-5be7a9577596",
+        "created_at": "2023-09-26T18:38:30.956Z",
+        "updated_at": "2023-09-26T22:59:51.155Z"
+      },
+      {
+        "id": "ec638019-ff7a-4beb-bbf2-1ffda0ae6ac5",
+        "created_at": "2023-09-26T15:46:24.584Z",
+        "updated_at": "2023-09-26T21:30:48.505Z"
+      },
+      {
+        "id": "ee2de12d-ddd6-4afc-930d-cd751f1d847a",
+        "created_at": "2023-09-27T00:49:12.750Z",
+        "updated_at": "2023-09-26T19:17:13.760Z"
+      },
+      {
+        "id": "4d45f329-fa6a-474d-9b9a-b45844663bfe",
+        "created_at": "2023-09-26T11:08:38.744Z",
+        "updated_at": "2023-09-27T04:20:28.824Z"
+      }
+    ],
+    "booking_history": [
+      {
+        "id": "07e1574e-c093-4258-a62a-57a4fc12e018",
+        "created_at": "2023-09-26T15:19:28.139Z",
+        "updated_at": "2023-09-26T22:43:00.760Z"
+      },
+      {
+        "id": "ab8726c9-5180-498e-8b83-7dfd46ac8c07",
+        "created_at": "2023-09-27T04:39:43.227Z",
+        "updated_at": "2023-09-27T04:51:06.578Z"
+      },
+      {
+        "id": "ccb7d0d1-d0c3-4c34-939a-0a9298d2d9a5",
+        "created_at": "2023-09-26T23:46:57.109Z",
+        "updated_at": "2023-09-26T13:17:18.729Z"
+      },
+      {
+        "id": "70860445-4e7e-48e6-bc13-8b376081c88a",
+        "created_at": "2023-09-27T08:39:12.789Z",
+        "updated_at": "2023-09-26T19:28:45.335Z"
+      },
+      {
+        "id": "67ad62a4-a7f8-42d8-9699-72fbb3bc30cc",
+        "created_at": "2023-09-27T02:26:49.792Z",
+        "updated_at": "2023-09-27T06:13:35.196Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "30402917-4d39-4400-ba26-7187fadfae98",
+        "email": "Royce.Runolfsdottir@roq.tech",
+        "firstName": "Nicklaus",
+        "lastName": "Gottlieb",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/586.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1c0b45c0-2dc4-4b12-a600-024fb12a31ed",
+        "email": "Milo78@roq.tech",
+        "firstName": "Catherine",
+        "lastName": "Goyette",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1186.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c05d3168-2050-46e9-bd4e-561f784e4a72",
+        "email": "Ara41@roq.tech",
+        "firstName": "Tad",
+        "lastName": "Goodwin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21395253",
+        "tenantId": null
+      },
+      {
+        "reference": "cefe0b00-3d60-485b-9137-bdfaed850bd5",
+        "email": "Alice.Krajcik-Kassulke11@roq.tech",
+        "firstName": "Faustino",
+        "lastName": "Effertz-Macejkovic",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40309634",
+        "tenantId": null
+      },
+      {
+        "reference": "8bebf8ee-d3d5-4764-8877-199c5f97dce6",
+        "email": "Greta95@roq.tech",
+        "firstName": "Jan",
+        "lastName": "Berge",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/520.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_location": [
+      {
+        "id": "6ce82902-0984-479d-af2c-0f0c7f5e727b",
+        "created_at": "2023-09-26T19:58:01.780Z",
+        "updated_at": "2023-09-26T20:18:01.809Z"
+      },
+      {
+        "id": "75a61db0-3ed3-497a-ad7e-deeb7e95a3c4",
+        "created_at": "2023-09-27T03:28:41.624Z",
+        "updated_at": "2023-09-27T06:53:20.722Z"
+      },
+      {
+        "id": "446f07ab-331a-409b-b3af-9c7a1d93867d",
+        "created_at": "2023-09-26T17:40:08.746Z",
+        "updated_at": "2023-09-26T19:51:53.810Z"
+      },
+      {
+        "id": "faf33db4-5fd5-497f-98ef-261c57f147d6",
+        "created_at": "2023-09-26T17:20:33.578Z",
+        "updated_at": "2023-09-27T05:42:59.361Z"
+      },
+      {
+        "id": "3a60c2a8-1da3-45d8-82ed-ffd02b9b9a62",
+        "created_at": "2023-09-26T21:14:22.320Z",
+        "updated_at": "2023-09-26T12:38:17.645Z"
+      }
+    ],
+    "operation_staff": [
+      {
+        "id": "8502596c-1854-481e-b779-debbd9c0265a",
+        "created_at": "2023-09-27T02:21:17.822Z",
+        "updated_at": "2023-09-26T11:13:32.089Z"
+      },
+      {
+        "id": "ac9b1101-5ff4-4d4c-a75a-90b85e9399c0",
+        "created_at": "2023-09-26T18:55:12.883Z",
+        "updated_at": "2023-09-26T15:10:18.102Z"
+      },
+      {
+        "id": "df956ecb-4b19-4e55-b9e6-9a871b1f6c69",
+        "created_at": "2023-09-26T13:48:42.478Z",
+        "updated_at": "2023-09-26T11:22:41.573Z"
+      },
+      {
+        "id": "9ceafb49-3d33-4903-bb04-c674a6c7f337",
+        "created_at": "2023-09-26T11:20:42.473Z",
+        "updated_at": "2023-09-26T17:53:32.734Z"
+      },
+      {
+        "id": "58b8a664-a9a5-413f-89fe-89788348de69",
+        "created_at": "2023-09-26T22:35:38.745Z",
+        "updated_at": "2023-09-27T06:02:33.132Z"
+      }
+    ],
+    "car_status": [
+      {
+        "id": "eba59981-d9cf-4049-af39-f85c076c3442",
+        "created_at": "2023-09-26T18:20:04.369Z",
+        "updated_at": "2023-09-26T13:31:31.290Z"
+      },
+      {
+        "id": "9babd70c-1de5-4145-9463-c7cf2997dba2",
+        "created_at": "2023-09-27T09:35:13.499Z",
+        "updated_at": "2023-09-26T13:17:55.171Z"
+      },
+      {
+        "id": "a17c803c-5726-4d72-af07-55ff0f05c20a",
+        "created_at": "2023-09-27T05:45:41.763Z",
+        "updated_at": "2023-09-26T12:07:44.141Z"
+      },
+      {
+        "id": "bd2b5d2a-7507-4e93-a185-43baf2daeced",
+        "created_at": "2023-09-26T15:50:58.522Z",
+        "updated_at": "2023-09-26T17:49:21.309Z"
+      },
+      {
+        "id": "13717ea8-af5d-4ed7-b4a5-a79a13f7bcf2",
+        "created_at": "2023-09-26T22:03:03.159Z",
+        "updated_at": "2023-09-27T07:11:26.033Z"
+      }
+    ],
+    "car_inventory": [
+      {
+        "id": "1fc7b8d4-8b81-46f7-90b6-420fa5a6b8e7",
+        "created_at": "2023-09-27T04:41:20.918Z",
+        "updated_at": "2023-09-26T20:55:13.496Z"
+      },
+      {
+        "id": "25ffd625-b21e-43a2-bf72-c880ca355ca2",
+        "created_at": "2023-09-26T23:46:02.776Z",
+        "updated_at": "2023-09-27T10:37:56.989Z"
+      },
+      {
+        "id": "ffa00299-ce5e-4347-b981-9a43724839d5",
+        "created_at": "2023-09-27T07:46:31.196Z",
+        "updated_at": "2023-09-27T07:13:57.032Z"
+      },
+      {
+        "id": "c12dd3d7-c93e-4eee-ae68-14e3af15df7b",
+        "created_at": "2023-09-26T23:16:21.710Z",
+        "updated_at": "2023-09-27T06:27:43.292Z"
+      },
+      {
+        "id": "cc74bff0-b438-49ae-92a2-33c901588ea9",
+        "created_at": "2023-09-27T09:39:21.109Z",
+        "updated_at": "2023-09-26T18:12:44.351Z"
+      }
+    ],
+    "booking_history": [
+      {
+        "id": "00ae3005-917a-46d0-9b58-363cfe669bf2",
+        "created_at": "2023-09-27T05:51:02.025Z",
+        "updated_at": "2023-09-26T15:32:19.425Z"
+      },
+      {
+        "id": "66aff324-4f04-492a-844f-5b3095c6ebd8",
+        "created_at": "2023-09-27T09:56:17.456Z",
+        "updated_at": "2023-09-26T19:37:26.512Z"
+      },
+      {
+        "id": "8f95c14d-d0c1-43df-b694-0368d63212e1",
+        "created_at": "2023-09-26T17:34:01.680Z",
+        "updated_at": "2023-09-27T04:08:31.548Z"
+      },
+      {
+        "id": "7106045e-2399-4e31-8018-a44821c3c1cc",
+        "created_at": "2023-09-26T21:34:51.270Z",
+        "updated_at": "2023-09-26T23:06:06.159Z"
+      },
+      {
+        "id": "44cdb666-70cc-426f-ab5d-98a2dc0b8d2e",
+        "created_at": "2023-09-26T19:33:32.531Z",
+        "updated_at": "2023-09-26T20:52:38.012Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "07f603af-5329-4007-9cbd-6d607f052bcc",
+        "email": "Bernita8@roq.tech",
+        "firstName": "Ubaldo",
+        "lastName": "Schulist",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/836.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "581c8684-b0b8-4117-b67c-e7f550cfdc14",
+        "email": "Triston.Heller@roq.tech",
+        "firstName": "Roxanne",
+        "lastName": "MacGyver",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1184.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7cfabff7-9ccd-422a-ae17-089df0247063",
+        "email": "Lori.Schroeder@roq.tech",
+        "firstName": "Cory",
+        "lastName": "Hegmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72810210",
+        "tenantId": null
+      },
+      {
+        "reference": "ee000680-1416-4607-b0c5-aa1482e4096d",
+        "email": "Freddie.Smith@roq.tech",
+        "firstName": "Alejandra",
+        "lastName": "Marvin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43871658",
+        "tenantId": null
+      },
+      {
+        "reference": "e01a88b4-a3c7-4bb5-9b32-5fe9241d7c9e",
+        "email": "Elsa.Beatty25@roq.tech",
+        "firstName": "Daniella",
+        "lastName": "Lynch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1225.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_location": [
+      {
+        "id": "e04ea745-a7fe-4c4b-9f16-332dcacbf1d7",
+        "created_at": "2023-09-27T00:09:59.124Z",
+        "updated_at": "2023-09-26T21:39:29.065Z"
+      },
+      {
+        "id": "7247713e-c641-40b1-86cd-e169b95ffff4",
+        "created_at": "2023-09-27T10:28:34.234Z",
+        "updated_at": "2023-09-26T23:35:12.933Z"
+      },
+      {
+        "id": "aa704d4e-01b2-4f89-a781-ff9bce4087ad",
+        "created_at": "2023-09-26T13:17:06.851Z",
+        "updated_at": "2023-09-27T08:31:58.012Z"
+      },
+      {
+        "id": "bc250208-f20c-474e-a338-98a93cbcd664",
+        "created_at": "2023-09-26T20:40:07.724Z",
+        "updated_at": "2023-09-27T06:08:40.072Z"
+      },
+      {
+        "id": "d7e2321c-1ba1-4f82-89e0-5cc04d51faa3",
+        "created_at": "2023-09-27T09:19:19.961Z",
+        "updated_at": "2023-09-27T08:57:50.744Z"
+      }
+    ],
+    "operation_staff": [
+      {
+        "id": "d8e7aa2d-e465-4fd6-b25e-1af0fee8f94e",
+        "created_at": "2023-09-27T02:25:43.785Z",
+        "updated_at": "2023-09-27T10:18:30.894Z"
+      },
+      {
+        "id": "f5252b4a-3645-409e-b21a-8aafacd46654",
+        "created_at": "2023-09-26T11:45:40.520Z",
+        "updated_at": "2023-09-27T07:43:13.326Z"
+      },
+      {
+        "id": "b6cfbbd5-823d-498e-b5de-c9eb281f7ca4",
+        "created_at": "2023-09-26T20:40:20.256Z",
+        "updated_at": "2023-09-27T04:46:37.751Z"
+      },
+      {
+        "id": "213d3d9d-f6e0-4923-94b0-823faff9a954",
+        "created_at": "2023-09-27T07:58:47.244Z",
+        "updated_at": "2023-09-26T18:10:08.115Z"
+      },
+      {
+        "id": "dac06246-e79e-44b2-b058-4b2d4d26611f",
+        "created_at": "2023-09-26T14:02:15.693Z",
+        "updated_at": "2023-09-27T06:30:25.082Z"
+      }
+    ],
+    "car_status": [
+      {
+        "id": "6061efd0-60d6-4117-a1fd-2284571c791f",
+        "created_at": "2023-09-27T04:15:52.558Z",
+        "updated_at": "2023-09-27T05:01:15.233Z"
+      },
+      {
+        "id": "54d4405a-a769-454d-a296-baca694db33b",
+        "created_at": "2023-09-26T11:37:46.602Z",
+        "updated_at": "2023-09-26T15:22:52.234Z"
+      },
+      {
+        "id": "9bd632ac-9409-4b26-a7a3-cd4c902f379f",
+        "created_at": "2023-09-26T22:10:29.360Z",
+        "updated_at": "2023-09-27T09:25:23.631Z"
+      },
+      {
+        "id": "a57d8005-c6e2-4908-bb7e-19311b62fc7d",
+        "created_at": "2023-09-26T20:10:20.732Z",
+        "updated_at": "2023-09-26T21:35:22.379Z"
+      },
+      {
+        "id": "3ee3fbc3-0d59-4221-b969-5d0e6a710c8d",
+        "created_at": "2023-09-27T09:17:21.255Z",
+        "updated_at": "2023-09-27T00:57:04.541Z"
+      }
+    ],
+    "car_inventory": [
+      {
+        "id": "1f3e3366-f9ed-4520-9641-c805935ef297",
+        "created_at": "2023-09-27T03:59:18.464Z",
+        "updated_at": "2023-09-26T14:07:39.807Z"
+      },
+      {
+        "id": "01bd4c44-acfd-4416-a7a4-dcd378296a81",
+        "created_at": "2023-09-27T02:36:17.216Z",
+        "updated_at": "2023-09-26T12:26:58.038Z"
+      },
+      {
+        "id": "c8ce79ca-d29f-4360-8e96-6c129a3a3a95",
+        "created_at": "2023-09-26T23:12:01.187Z",
+        "updated_at": "2023-09-27T03:11:07.063Z"
+      },
+      {
+        "id": "11ad3f56-3e24-464e-b9f4-01854cc5d171",
+        "created_at": "2023-09-26T16:58:24.623Z",
+        "updated_at": "2023-09-26T13:01:57.939Z"
+      },
+      {
+        "id": "7a38ac09-9f95-492c-bf9f-138189009211",
+        "created_at": "2023-09-26T19:27:24.825Z",
+        "updated_at": "2023-09-26T15:34:45.375Z"
+      }
+    ],
+    "booking_history": [
+      {
+        "id": "8d99a155-bbf2-43a1-9052-08d6698d6b5c",
+        "created_at": "2023-09-26T21:21:40.109Z",
+        "updated_at": "2023-09-27T04:48:51.333Z"
+      },
+      {
+        "id": "7835b5ed-2090-44af-aac5-0c830a716df3",
+        "created_at": "2023-09-26T20:20:57.789Z",
+        "updated_at": "2023-09-26T19:17:05.668Z"
+      },
+      {
+        "id": "aaaf91fc-c1d8-452f-8c0a-1a6f58123ef4",
+        "created_at": "2023-09-27T07:27:02.206Z",
+        "updated_at": "2023-09-26T14:12:27.261Z"
+      },
+      {
+        "id": "496497ba-5425-4a52-98b0-96d70f28b4eb",
+        "created_at": "2023-09-26T20:10:44.313Z",
+        "updated_at": "2023-09-26T23:27:30.418Z"
+      },
+      {
+        "id": "7e40bde4-373a-41fd-9a83-c898bec5ac77",
+        "created_at": "2023-09-26T16:46:49.738Z",
+        "updated_at": "2023-09-26T18:36:38.060Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d9b66757-8833-44f4-ba53-be7012b4b32c",
+        "email": "Jessyca.Keeling@roq.tech",
+        "firstName": "Orin",
+        "lastName": "Little",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/343.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0b2af28b-970e-42de-81e9-cc69e2bbb26f",
+        "email": "Marisa.Gutkowski79@roq.tech",
+        "firstName": "Reta",
+        "lastName": "Skiles",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/813.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "24e13efe-2115-4515-b527-18ad70ddd521",
+        "email": "Briana.Frami27@roq.tech",
+        "firstName": "Daphne",
+        "lastName": "Grimes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/364.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c600bab8-ac23-4122-b69e-201de3e5dd6a",
+        "email": "Diana.Parisian@roq.tech",
+        "firstName": "Bernice",
+        "lastName": "Wolf",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70003227",
+        "tenantId": null
+      },
+      {
+        "reference": "db005a98-ed6c-4d70-8c7b-6ff992a9dcd4",
+        "email": "Shaniya_Romaguera@roq.tech",
+        "firstName": "Arthur",
+        "lastName": "Predovic",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34760616",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_location": [
+      {
+        "id": "747a3e78-113b-4e24-9c92-6a31f5f70423",
+        "created_at": "2023-09-27T05:31:21.213Z",
+        "updated_at": "2023-09-27T07:16:15.094Z"
+      },
+      {
+        "id": "8947468d-c927-4ca6-badd-b5fabfeabb02",
+        "created_at": "2023-09-26T22:38:42.639Z",
+        "updated_at": "2023-09-27T01:40:33.451Z"
+      },
+      {
+        "id": "57810683-7e6b-4da0-b325-ccbf5c7eec7c",
+        "created_at": "2023-09-26T16:11:02.843Z",
+        "updated_at": "2023-09-27T03:19:03.391Z"
+      },
+      {
+        "id": "4ddd50a6-79f3-4713-a36b-a10c3b8e8f26",
+        "created_at": "2023-09-26T18:24:33.406Z",
+        "updated_at": "2023-09-26T22:14:56.760Z"
+      },
+      {
+        "id": "4ce7ce06-7b84-407d-9541-6874d0aa7e49",
+        "created_at": "2023-09-26T13:25:35.984Z",
+        "updated_at": "2023-09-27T03:35:33.972Z"
+      }
+    ],
+    "operation_staff": [
+      {
+        "id": "42e176e2-1ac0-46fb-b3e6-42386347370a",
+        "created_at": "2023-09-27T02:00:48.700Z",
+        "updated_at": "2023-09-26T15:53:34.350Z"
+      },
+      {
+        "id": "5bf03269-7d22-4872-84a6-b44f6368b10b",
+        "created_at": "2023-09-26T22:47:46.583Z",
+        "updated_at": "2023-09-26T17:16:34.396Z"
+      },
+      {
+        "id": "dfc4a41e-e05b-41b0-a521-b63bd3d12596",
+        "created_at": "2023-09-27T00:58:59.836Z",
+        "updated_at": "2023-09-27T02:36:01.309Z"
+      },
+      {
+        "id": "86a64d47-dea3-4118-9740-064efec20268",
+        "created_at": "2023-09-27T03:56:20.328Z",
+        "updated_at": "2023-09-26T11:30:12.389Z"
+      },
+      {
+        "id": "efb51026-ed0f-48ca-925c-b1112060c4d6",
+        "created_at": "2023-09-26T23:58:59.311Z",
+        "updated_at": "2023-09-27T01:39:17.668Z"
+      }
+    ],
+    "car_status": [
+      {
+        "id": "c2796b67-42a7-4f10-a710-e01c0e876a44",
+        "created_at": "2023-09-27T00:01:18.640Z",
+        "updated_at": "2023-09-26T11:20:01.084Z"
+      },
+      {
+        "id": "f0fe8387-f250-4de2-a59d-1880e7d149a5",
+        "created_at": "2023-09-26T13:36:24.641Z",
+        "updated_at": "2023-09-27T08:51:18.185Z"
+      },
+      {
+        "id": "38f1859f-1b19-4615-9b87-499c41dfcd74",
+        "created_at": "2023-09-27T02:54:37.804Z",
+        "updated_at": "2023-09-27T10:51:52.031Z"
+      },
+      {
+        "id": "9d9aa717-a9ee-4f8a-947c-27a6dc309617",
+        "created_at": "2023-09-27T01:52:58.921Z",
+        "updated_at": "2023-09-27T07:09:36.615Z"
+      },
+      {
+        "id": "21f8723c-e952-487b-a6cc-f4265c60a288",
+        "created_at": "2023-09-26T13:01:55.936Z",
+        "updated_at": "2023-09-27T09:52:02.234Z"
+      }
+    ],
+    "car_inventory": [
+      {
+        "id": "1631de6b-b97a-455b-b618-c3df6563fd50",
+        "created_at": "2023-09-27T00:30:43.504Z",
+        "updated_at": "2023-09-27T01:28:26.681Z"
+      },
+      {
+        "id": "ec0704df-db9a-4de7-8e51-e232de406793",
+        "created_at": "2023-09-27T04:59:30.425Z",
+        "updated_at": "2023-09-26T23:38:48.492Z"
+      },
+      {
+        "id": "94ef044a-bc87-494c-b0de-e1b032ec1e22",
+        "created_at": "2023-09-26T15:14:24.672Z",
+        "updated_at": "2023-09-26T15:23:35.914Z"
+      },
+      {
+        "id": "1b562492-2ad9-4931-9fb7-37eaab7cc456",
+        "created_at": "2023-09-26T17:48:36.963Z",
+        "updated_at": "2023-09-27T02:42:14.292Z"
+      },
+      {
+        "id": "c9d58c31-5521-47e9-a390-68a420bd9939",
+        "created_at": "2023-09-27T04:59:54.105Z",
+        "updated_at": "2023-09-27T07:34:10.437Z"
+      }
+    ],
+    "booking_history": [
+      {
+        "id": "9e8e537e-8039-4156-b473-97917b476cc6",
+        "created_at": "2023-09-26T22:37:40.920Z",
+        "updated_at": "2023-09-27T06:30:49.220Z"
+      },
+      {
+        "id": "f00f447b-9899-4d8e-867f-f77fce8a80f1",
+        "created_at": "2023-09-27T08:35:38.710Z",
+        "updated_at": "2023-09-26T15:54:38.343Z"
+      },
+      {
+        "id": "0a6aaa05-f5da-438c-9c3d-16ce78a4ccdb",
+        "created_at": "2023-09-26T21:51:19.211Z",
+        "updated_at": "2023-09-27T06:51:20.099Z"
+      },
+      {
+        "id": "4f2e2eaf-8634-4fe4-bc04-6d998eaf8cd5",
+        "created_at": "2023-09-27T11:01:14.414Z",
+        "updated_at": "2023-09-27T08:55:43.687Z"
+      },
+      {
+        "id": "875edc45-525e-4291-a180-65b32ef01858",
+        "created_at": "2023-09-27T08:11:39.239Z",
+        "updated_at": "2023-09-27T10:58:17.462Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a02997e9-abc6-47f6-b846-4c7b645159aa",
+        "email": "Dave.Mann@roq.tech",
+        "firstName": "Shanna",
+        "lastName": "Nikolaus",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40416886",
+        "tenantId": null
+      },
+      {
+        "reference": "d4b340b8-163f-43cb-9173-1cee9e5cf11d",
+        "email": "Maye.Schiller@roq.tech",
+        "firstName": "Jason",
+        "lastName": "Douglas",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1117.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cf21b4b0-4c15-4f01-9acb-8891988cfdf8",
+        "email": "Theresia_Carter41@roq.tech",
+        "firstName": "Amari",
+        "lastName": "Homenick",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/476.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9edec4d9-c8a1-49f2-b92c-92baf48c662c",
+        "email": "Clement.Hirthe76@roq.tech",
+        "firstName": "Oswald",
+        "lastName": "Runolfsson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/445.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cbac5476-c045-4d15-b108-d2f11a4f53b3",
+        "email": "Hollis.Skiles@roq.tech",
+        "firstName": "Miles",
+        "lastName": "Ullrich-Welch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/634.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
